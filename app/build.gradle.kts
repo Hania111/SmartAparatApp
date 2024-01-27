@@ -81,6 +81,8 @@ dependencies {
     implementation("androidx.camera:camera-view:$cameraxVersion")
     implementation("androidx.camera:camera-extensions:$cameraxVersion")
 
+    //ML Kit Object
+    implementation("com.google.mlkit:object-detection:16.2.6")
 
 
 }
